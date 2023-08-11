@@ -1,0 +1,25 @@
+* Introdução 
+- Requisitos
+- Diferença de Git e GitHub
+* Primeiros passos
+- Criando uma conta
+- Configurando perfil público
+- Conhecendo a página do usuário
+* Criando repositórios
+- Criando repositório online
+- Conhecendo a página do repositório
+- Atualizando o repositório
+- Copiando a ideia de README pessoal
+- Colaborando em outros repositórios
+- Conhecendo o restante da página pessoal
+* Trabalhando com repositórios 
+- Criando chave SSH
+- Adicionando chaves ao gerenciador local SSH Agent 
+- Linkando um repositório remoto com local
+- Modificando arquivos local e enviando para repositório remoto
+- Modificando arquivos remotos e puxando para repositório local
+- Entendendo o histórico remoto
+- Corrigindo conflitos de merge
+* Outras features
+- Pesquisando no Github
+- Estrelas e Git Clone
